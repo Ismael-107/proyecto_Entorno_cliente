@@ -1,12 +1,12 @@
 # Proyecto entorno cliente
 
 # Backlog
-- Registrarse
-Que se pueden registrar las cuentas para guardar los datos
-- Ver favoritos
-Puedes ver tus rutas de favoritos para tenerlas guardadas
-- Filtrar por ciertas necesidades
-Puedes filtrar las rutas por si tienes alguna necesidad específica
+## Registrarse
+- Que se pueden registrar las cuentas para guardar los datos
+## Ver favoritos
+- Puedes ver tus rutas de favoritos para tenerlas guardadas
+## Filtrar por ciertas necesidades
+- Puedes filtrar las rutas por si tienes alguna necesidad específica
 
 # Mapa de pantallas
 
